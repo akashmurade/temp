@@ -1,0 +1,18 @@
+❖ javac 
+❖ java -version 
+❖ hadoop version
+❖ hdfs namenode -format
+❖ hdfs namenode -format force 
+❖ cd/
+❖ cd Hadoop 
+❖ cd sbin 
+❖ start-dfs.cmd 
+❖ jsp
+❖ start-yarn.cmd
+❖ jsp
+❖ create a data1.txt file in c drive
+❖ >>hadoop fs -mkdir /input
+❖ >>hadoop fs -put c:/data1.txt /input
+❖ >>hadoop fs -cat /input/data.txt
+❖ >>hadoop jar c:/.jar wordcount /input /out
+❖ >>hadoop fs -cat /out/*
